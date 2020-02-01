@@ -1,2 +1,2 @@
-# Digital_Image_Processing_Useful_Scripts
-Useful_Python3_Scripts
+# Digital Image Processing Useful Scripts
+Python3_Scripts
